@@ -1,0 +1,1 @@
+You can play the snake game by entering the main file directly in the main file and running the snake.exe file.
